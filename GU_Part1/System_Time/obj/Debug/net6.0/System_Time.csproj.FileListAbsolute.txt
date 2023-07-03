@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\bin\Debug\net6.0\System_Time.exe
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\bin\Debug\net6.0\System_Time.deps.json
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\bin\Debug\net6.0\System_Time.runtimeconfig.json
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\bin\Debug\net6.0\System_Time.dll
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\bin\Debug\net6.0\System_Time.pdb
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.dll
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\refint\System_Time.dll
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.pdb
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\System_Time.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\GU_Part1\System_Time\obj\Debug\net6.0\ref\System_Time.dll
