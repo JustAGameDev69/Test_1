@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\bin\Debug\net6.0\RectangleArea.exe
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\bin\Debug\net6.0\RectangleArea.deps.json
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\bin\Debug\net6.0\RectangleArea.runtimeconfig.json
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\bin\Debug\net6.0\RectangleArea.dll
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\bin\Debug\net6.0\RectangleArea.pdb
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.dll
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\refint\RectangleArea.dll
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.pdb
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\RectangleArea.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\GU_Part1\RectangleArea\obj\Debug\net6.0\ref\RectangleArea.dll

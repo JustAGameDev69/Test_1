@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyExchange_BasicC#", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System_Time", "System_Time\System_Time.csproj", "{8942853C-05AF-40F5-BE7A-50B9387B37B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{95908AD7-DA5F-4741-AB1D-7B1B7554E12F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8942853C-05AF-40F5-BE7A-50B9387B37B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8942853C-05AF-40F5-BE7A-50B9387B37B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8942853C-05AF-40F5-BE7A-50B9387B37B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95908AD7-DA5F-4741-AB1D-7B1B7554E12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95908AD7-DA5F-4741-AB1D-7B1B7554E12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95908AD7-DA5F-4741-AB1D-7B1B7554E12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95908AD7-DA5F-4741-AB1D-7B1B7554E12F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
