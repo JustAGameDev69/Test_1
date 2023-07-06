@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\bin\Debug\net6.0\C#Basic_Part2.exe
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\bin\Debug\net6.0\C#Basic_Part2.deps.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\bin\Debug\net6.0\C#Basic_Part2.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\bin\Debug\net6.0\C#Basic_Part2.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\bin\Debug\net6.0\C#Basic_Part2.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\refint\C#Basic_Part2.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\C#Basic_Part2.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\C#Basic_Part2\obj\Debug\net6.0\ref\C#Basic_Part2.dll
