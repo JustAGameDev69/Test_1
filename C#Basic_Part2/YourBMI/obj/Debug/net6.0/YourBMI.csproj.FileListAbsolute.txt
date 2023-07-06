@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\bin\Debug\net6.0\YourBMI.exe
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\bin\Debug\net6.0\YourBMI.deps.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\bin\Debug\net6.0\YourBMI.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\bin\Debug\net6.0\YourBMI.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\bin\Debug\net6.0\YourBMI.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\refint\YourBMI.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\YourBMI.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\YourBMI\obj\Debug\net6.0\ref\YourBMI.dll
