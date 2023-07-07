@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\bin\Debug\net6.0\Drawing Shape Menu.exe
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\bin\Debug\net6.0\Drawing Shape Menu.deps.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\bin\Debug\net6.0\Drawing Shape Menu.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\bin\Debug\net6.0\Drawing Shape Menu.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\bin\Debug\net6.0\Drawing Shape Menu.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\refint\Drawing Shape Menu.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\Drawing Shape Menu.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Drawing Shape Menu\obj\Debug\net6.0\ref\Drawing Shape Menu.dll

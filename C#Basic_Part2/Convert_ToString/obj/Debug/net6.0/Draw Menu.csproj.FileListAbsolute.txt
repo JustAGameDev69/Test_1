@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Draw Menu.exe
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Draw Menu.deps.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Draw Menu.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Draw Menu.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Draw Menu.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\refint\Draw Menu.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Draw Menu.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\ref\Draw Menu.dll

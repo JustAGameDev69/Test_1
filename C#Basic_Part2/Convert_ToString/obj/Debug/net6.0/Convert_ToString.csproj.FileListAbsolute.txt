@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Convert_ToString.exe
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Convert_ToString.deps.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Convert_ToString.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Convert_ToString.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\bin\Debug\net6.0\Convert_ToString.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\refint\Convert_ToString.dll
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.pdb
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\Convert_ToString.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#Basic_Part2\Convert_ToString\obj\Debug\net6.0\ref\Convert_ToString.dll
