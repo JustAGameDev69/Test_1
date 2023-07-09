@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\bin\Debug\net6.0\Basic_C#.exe
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\bin\Debug\net6.0\Basic_C#.deps.json
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\bin\Debug\net6.0\Basic_C#.runtimeconfig.json
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\bin\Debug\net6.0\Basic_C#.dll
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\bin\Debug\net6.0\Basic_C#.pdb
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.dll
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\refint\Basic_C#.dll
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.pdb
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\Basic_C#.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\Basic_C#\Basic_C#\obj\Debug\net6.0\ref\Basic_C#.dll
