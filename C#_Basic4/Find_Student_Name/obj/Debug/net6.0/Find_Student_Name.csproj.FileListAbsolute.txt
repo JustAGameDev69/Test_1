@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\bin\Debug\net6.0\Find_Student_Name.exe
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\bin\Debug\net6.0\Find_Student_Name.deps.json
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\bin\Debug\net6.0\Find_Student_Name.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\bin\Debug\net6.0\Find_Student_Name.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\bin\Debug\net6.0\Find_Student_Name.pdb
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\refint\Find_Student_Name.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.pdb
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\Find_Student_Name.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Find_Student_Name\obj\Debug\net6.0\ref\Find_Student_Name.dll
