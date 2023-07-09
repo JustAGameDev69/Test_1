@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\bin\Debug\net6.0\Add_Elements.exe
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\bin\Debug\net6.0\Add_Elements.deps.json
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\bin\Debug\net6.0\Add_Elements.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\bin\Debug\net6.0\Add_Elements.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\bin\Debug\net6.0\Add_Elements.pdb
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\refint\Add_Elements.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.pdb
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\Add_Elements.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Add_Elements\obj\Debug\net6.0\ref\Add_Elements.dll
