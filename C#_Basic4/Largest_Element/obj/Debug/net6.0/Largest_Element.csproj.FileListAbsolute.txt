@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\bin\Debug\net6.0\Largest_Element.exe
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\bin\Debug\net6.0\Largest_Element.deps.json
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\bin\Debug\net6.0\Largest_Element.runtimeconfig.json
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\bin\Debug\net6.0\Largest_Element.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\bin\Debug\net6.0\Largest_Element.pdb
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\refint\Largest_Element.dll
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.pdb
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\Largest_Element.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\C#_Basic4\Largest_Element\obj\Debug\net6.0\ref\Largest_Element.dll
