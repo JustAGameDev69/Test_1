@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Student_Name", "Find_S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add_Elements", "Add_Elements\Add_Elements.csproj", "{4BB8501B-B809-4C55-B861-F0957065321F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest_Element", "Largest_Element\Largest_Element.csproj", "{868A4B39-0BEF-41FC-B9F8-E19744303DF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest_Element", "Largest_Element\Largest_Element.csproj", "{868A4B39-0BEF-41FC-B9F8-E19744303DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total_Main", "Total_Main\Total_Main.csproj", "{2654A387-A8A2-4B68-8B27-1CB3084F1C47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{868A4B39-0BEF-41FC-B9F8-E19744303DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{868A4B39-0BEF-41FC-B9F8-E19744303DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{868A4B39-0BEF-41FC-B9F8-E19744303DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2654A387-A8A2-4B68-8B27-1CB3084F1C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2654A387-A8A2-4B68-8B27-1CB3084F1C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2654A387-A8A2-4B68-8B27-1CB3084F1C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2654A387-A8A2-4B68-8B27-1CB3084F1C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
