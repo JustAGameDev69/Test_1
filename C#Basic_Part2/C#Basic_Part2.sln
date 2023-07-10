@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YourBMI", "YourBMI\YourBMI.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Draw Menu", "Convert_ToString\Draw Menu.csproj", "{CA690249-2B52-4C3C-8173-37736B262D4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing Shape Menu", "Drawing Shape Menu\Drawing Shape Menu.csproj", "{FA6CE035-7555-41AC-AD6B-0E4F2FF07CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drawing Shape Menu", "Drawing Shape Menu\Drawing Shape Menu.csproj", "{FA6CE035-7555-41AC-AD6B-0E4F2FF07CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_To_String", "Number_To_String\Number_To_String.csproj", "{BA682342-886A-4661-AAD3-F803ED8826FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FA6CE035-7555-41AC-AD6B-0E4F2FF07CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA6CE035-7555-41AC-AD6B-0E4F2FF07CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA6CE035-7555-41AC-AD6B-0E4F2FF07CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA682342-886A-4661-AAD3-F803ED8826FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA682342-886A-4661-AAD3-F803ED8826FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA682342-886A-4661-AAD3-F803ED8826FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA682342-886A-4661-AAD3-F803ED8826FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

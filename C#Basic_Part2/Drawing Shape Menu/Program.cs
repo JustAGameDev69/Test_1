@@ -4,112 +4,157 @@ class Program
 {
     static void Main(string[] args)
     {
-        int choice;
+        int num;
+        Console.Write("Nhap so nguyen khong am co toi da 3 chu so: ");
+        num = int.Parse(Console.ReadLine());
 
-        while (true)
+        if (num < 0 || num > 999)
         {
+            Console.WriteLine("So khong hop le!");
+        }
+        else if (num == 0)
+        {
+            Console.WriteLine("zero");
+        }
+        else
+        {
+            string result = "";
+            int hundreds = num / 100;
+            int tens = (num % 100) / 10;
+            int ones = num % 10;
 
-            Console.WriteLine("Menu");
-            Console.WriteLine("1. Draw the rectangle");
-            Console.WriteLine("2. Draw the square triangle");
-            Console.WriteLine("3. Draw the rectangle");
-            Console.WriteLine("0. Exit");
-            Console.WriteLine("Enter your choice: ");
-            choice = Int32.Parse(Console.ReadLine());
-            switch (choice)
+            switch (hundreds)
             {
                 case 1:
-                    Console.WriteLine("This is a retangle!");
-                    for (int i = 1; i <= 3; i++)
-                    {
-                        for (int j = 1; j <= 7; j++)
-                        {
-                            Console.Write("*");
-                        }
-                        Console.WriteLine();
-                    }
+                    result += "one hundred ";
                     break;
                 case 2:
-                    Console.WriteLine("This is a square bottom-left triangle!");
-                    for (int i = 1; i <= 5; i++)
-                    {
-                        for (int j = 1; j <= i; j++)
-                        {
-                            Console.Write("*");
-                        }
-                        Console.WriteLine();
-                    }
-                    Console.WriteLine("This is a square bottom-right triangle!");
-                    for (int i = 1; i <= 5; i++)
-                    {
-                        for (int j = 1; j <= 5; j++)
-                        {
-                            if (j >= 5 - i + 1)
-                            {
-                                Console.Write("*");
-                            }
-                            else
-                            {
-                                Console.Write(" ");
-                            }
-                        }
-                        Console.WriteLine();
-                    }
-                    Console.WriteLine("This is a square top-left triangle!");
-                    for (int i = 1; i <= 6; i++)
-                    {
-                        for (int j = 1; j <= 6; j++)
-                        {
-                            if (j >= 6 - i + 1)
-                            {
-                                Console.Write(" ");
-                            }
-                            else
-                            {
-                                Console.Write("*");
-                            }
-                        }
-                        Console.WriteLine();
-                    }
-                    Console.WriteLine("This is a square top-right triangle!");
-                    for (int i = 1; i <= 5; i++)
-                    {
-                        for (int j = 5; j >= 1; j--)
-                        {
-                            if (j <= 5 - i + 1)
-                            {
-                                Console.Write("*");
-                            }
-                            else
-                            {
-                                Console.Write(" ");
-                            }
-                        }
-                        Console.WriteLine();
-                    }
+                    result += "two hundred ";
                     break;
                 case 3:
-                    for (int i = 1; i <= 5; i++)
-                    {
-                        for (int j = 1; j <= 5 - i; j++)
-                        {
-                            Console.Write(" ");
-                        }
-                        for (int k = 1; k <= 2 * i - 1; k++)
-                        {
-                            Console.Write("*");
-                        }
-                        Console.WriteLine();
-                    }
+                    result += "three hundred ";
                     break;
-                case 0:
-                    Environment.Exit(0);
+                case 4:
+                    result += "four hundred ";
                     break;
-                default:
-                    Console.WriteLine("No choice!");
+                case 5:
+                    result += "five hundred ";
                     break;
-
+                case 6:
+                    result += "six hundred ";
+                    break;
+                case 7:
+                    result += "seven hundred ";
+                    break;
+                case 8:
+                    result += "eight hundred ";
+                    break;
+                case 9:
+                    result += "nine hundred ";
+                    break;
             }
+
+            if (tens == 1)
+            {
+                switch (ones)
+                {
+                    case 0:
+                        result += "ten";
+                        break;
+                    case 1:
+                        result += "eleven";
+                        break;
+                    case 2:
+                        result += "twelve";
+                        break;
+                    case 3:
+                        result += "thirteen";
+                        break;
+                    case 4:
+                        result += "fourteen";
+                        break;
+                    case 5:
+                        result += "fifteen";
+                        break;
+                    case 6:
+                        result += "sixteen";
+                        break;
+                    case 7:
+                        result += "seventeen";
+                        break;
+                    case 8:
+                        result += "eighteen";
+                        break;
+                    case 9:
+                        result += "nineteen";
+                        break;
+                }
+            }
+            else
+            {
+                switch (tens)
+                {
+                    case 2:
+                        result += "twenty ";
+                        break;
+                    case 3:
+                        result += "thirty ";
+                        break;
+                    case 4:
+                        result += "forty ";
+                        break;
+                    case 5:
+                        result += "fifty ";
+                        break;
+                    case 6:
+                        result += "sixty ";
+                        break;
+                    case 7:
+                        result += "seventy ";
+                        break;
+                    case 8:
+                        result += "eighty ";
+                        break;
+                    case 9:
+                        result += "ninety ";
+                        break;
+                }
+
+                switch (ones)
+                {
+                    case 1:
+                        result += "one";
+                        break;
+                    case 2:
+                        result += "two";
+                        break;
+                    case 3:
+                        result += "three";
+                        break;
+                    case 4:
+                        result += "four";
+                        break;
+                    case 5:
+                        result += "five";
+                        break;
+                    case 6:
+                        result += "six";
+                        break;
+                    case 7:
+                        result += "seven";
+                        break;
+                    case 8:
+                        result += "eight";
+                        break;
+                    case 9:
+                        result += "nine";
+                        break;
+                }
+            }
+
+            Console.WriteLine(result);
         }
+
+        Console.ReadLine(); // Dung man hinh de xem ket qua
     }
 }
