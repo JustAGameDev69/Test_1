@@ -1,0 +1,15 @@
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\bin\Debug\net6.0\String_Numbers.exe
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\bin\Debug\net6.0\String_Numbers.deps.json
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\bin\Debug\net6.0\String_Numbers.runtimeconfig.json
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\bin\Debug\net6.0\String_Numbers.dll
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\bin\Debug\net6.0\String_Numbers.pdb
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.csproj.AssemblyReference.cache
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.AssemblyInfoInputs.cache
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.AssemblyInfo.cs
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.csproj.CoreCompileInputs.cache
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.dll
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\refint\String_Numbers.dll
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.pdb
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\String_Numbers.genruntimeconfig.cache
+C:\Coding\Repository1\Test_1\String_Numbers\String_Numbers\obj\Debug\net6.0\ref\String_Numbers.dll
